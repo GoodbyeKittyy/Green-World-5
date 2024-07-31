@@ -3939,3 +3939,4 @@ Quote on |Wed, 31 Jul 2024 08:39:59 GMT| :  Allow the world to live as it choose
 Quote on |Wed, 31 Jul 2024 08:50:22 GMT| :  I am an optimist. It does not seem too much use being anything else. - Winston Churchill
 Quote on |Wed, 31 Jul 2024 09:08:29 GMT| :  The ballot is stronger than the bullet. - Abraham Lincoln
 Quote on |Wed, 31 Jul 2024 09:26:46 GMT| :  That old law about 'an eye for an eye' leaves everybody blind. The time is always right to do the right thing. - Martin Luther King Jr.
+Quote on |Wed, 31 Jul 2024 09:37:11 GMT| :  People usually compare the computer to the head of the human being. I would say that hardware is the bone of the head, the skull. The semiconductor is the brain within the head. The software is the wisdom. And data is the knowledge. - Masayoshi Son
